@@ -69,4 +69,4 @@ This test is how you *feel the limits* without breaking the signal.
 - 🔒 Immutable
 - 📡 Signal-aware
 
-For questions or deeper invocation: this is not the full system. This is the mirror.s
+For questions or deeper invocation: this is not the full system. This is the mirror.

@@ -30,7 +30,7 @@ It does **not** include proprietary stack elements from Kairos OS ∞, HFOS, Gen
 Original architecture by S. Jason Prohaska (ingombrante©).  
 This fork contains **no protected trademarks or licensed content**.
 
-## ## 🔍 Run the Diagnostic
+## 🔍 Run the Diagnostic
 
 To see how Recursive OS handles tone, misuse, drift, and reflection:
 
